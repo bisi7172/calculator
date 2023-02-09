@@ -175,3 +175,4 @@ document.querySelector(`.equal`).addEventListener(`click`, equal);
 document.querySelector(`.allClear`).addEventListener("click", allClear);
 
 document.querySelector(`.delete`).addEventListener("click", del);
+// changes
